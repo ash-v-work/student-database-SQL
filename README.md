@@ -10,3 +10,4 @@ A SQL-based student management system created using MySQL and DBeaver
 4. marks
 
 ## ER Diagram
+![ER Diagram](screenshots/ER-diagram.png)
